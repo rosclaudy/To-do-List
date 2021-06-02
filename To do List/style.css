@@ -1,0 +1,52 @@
+
+  .title{
+    margin-left: 2rem;
+    margin-top: 25px;
+  }
+
+  .form{
+      margin: auto;
+      max-width:400px;
+      text-align: center
+  }
+.jumbotron{
+  box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+  .container{
+    margin-top: 10px;
+    font-family: 'Dancing Script', cursive;
+    
+  }
+  body::-webkit-scrollbar {
+    width: 12px;               
+  }
+  body::-webkit-scrollbar-track {
+    background: #efaf9a;        
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: #e09277;  
+    border-radius: 20px;       
+    border: 3px solid #efaf9a;  
+  }
+
+  input[type='submit'], button, [aria-label]{
+    cursor: pointer;
+  }
+  #edit-box{
+    display: none;
+    max-width: 80%;
+    margin: auto;
+    margin-top: 10px;
+  }
+
+  td{
+      background-color: aliceblue;
+      padding-right: 10px;
+      text-align: left;
+  }
+
+  .to-do{
+      background: transparent !important;
+  }
+ 
